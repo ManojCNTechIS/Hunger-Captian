@@ -10,9 +10,9 @@ Hunger Captian, with a frontend built in React & Redux and a backend built in Dj
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://hungercaptain-frontend-1.renelo.repl.co/) here!!
+Check out [FRONTEND LIVE DEMO](https://HungerCaptian-frontend.manthya20.repl.co) here!!
 
-Check out [API LIVE DEMO](https://hunger-captain-backend.renelo.repl.co/) here!!
+Check out [API LIVE DEMO](https://HungerCaptian-backend.manthya20.repl.co) here!!
 
 ## ScreenShot
 ![Screenshot 2022-06-29 at 12 50 00 PM](https://user-images.githubusercontent.com/101166793/176389311-caae6829-d4cf-493c-a5a9-132cdf8a4648.png)
