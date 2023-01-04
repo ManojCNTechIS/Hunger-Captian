@@ -27,7 +27,7 @@ Check out [API LIVE DEMO](https://HungerCaptian-backend.manthya20.repl.co) here!
 
 ## How to Install
 
-1. Git Clone https://github.com/ajardinelc/Hunger-Captian.git
+1. Git Clone https://github.com/ManojCNTechIS/Hunger-Captian
 
 ```
 git clone 
